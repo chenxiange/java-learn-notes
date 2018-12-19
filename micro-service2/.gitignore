@@ -117,3 +117,5 @@ logs
 xloan-task/bestsign-sdk-logs
 
 tmp/
+
+*.mvn
